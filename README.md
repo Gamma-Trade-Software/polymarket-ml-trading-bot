@@ -1,13 +1,12 @@
 # Polymarket Trading Bot
 
-**What is your native language** [🇨🇳 中文](README.zh.md) · [🇷🇺 Русский](README.ru.md)
+[🇨🇳 中文](README.zh.md) · [🇷🇺 Русский](README.ru.md)
 
 ---
 <img width="1981" height="793" alt="thumbnail" src="https://github.com/user-attachments/assets/31efdf63-1172-46b2-8713-e1173dc06722" />
 <br><br>
 <p align="center">
   Built by <a href="https://github.com/RetroVaIix"><strong>Retro Valix</strong></a> — high-performance automated trading systems for Polymarket.<br><br>
-  <a href="https://github.com/RetroVaIix"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-RetroVaIix-181717?logo=github&logoColor=white"></a>&nbsp;
   <a href="https://t.me/RetroValix"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-@RetroValix-26A5E4?logo=telegram&logoColor=white"></a>&nbsp;
   <a href="https://x.com/RetroValix"><img alt="X" src="https://img.shields.io/badge/X-@RetroValix-000000?logo=x&logoColor=white"></a>
 </p>
@@ -62,7 +61,7 @@ The premium stack is what we deploy when capital and expectations are serious:
 If you are evaluating whether to go premium, reach out directly:
 
 - **Telegram:** [@RetroValix](https://t.me/RetroValix)
-- **GitHub:** [RetroVaIix](https://github.com/RetroVaIix)
+- **X:** [RetroValix](https://x.com/RetroValix)
 
 We will walk through proof, scope, and onboarding on a call — not via public Polymarket profile links in this repository.
 
